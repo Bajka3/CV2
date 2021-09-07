@@ -1,0 +1,172 @@
+body {
+    margin:0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+a:hover {
+    color: #EAF6F6;
+    }
+h1 {
+    font-size: 450% ;
+    margin: 50px auto 20px auto;
+    color: #66BFBF;
+    font-family: 'Dancing Script', cursive;
+    }
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    clear: left;
+    }
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    }
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    }
+h5 {
+    color: #EAF6F6;
+    font-family: 'Montserrat', sans-serif;
+    text-weight: normal;
+    padding: 10px 0;
+    }
+hr {
+  border: 0;
+  border-top: 5px dotted #EAF6F6;
+  width: 10%;
+  clear: both;
+  margin: 30px auto;
+  }
+p {
+    line-height: 2;
+  }
+
+.deskovky {
+    width: 25%;
+    float: left;
+    margin: 0 30px 0 0;
+}
+
+.footer-link {
+    padding: 20px 7px;
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.ptacek {
+    position: absolute;
+    left: 20%;
+    top: 320px;
+    width: 10%;
+}
+
+.krajina {
+    width: 35%;
+}
+
+.kontaktuj_me {
+    background-color: #D6E6F2;
+}
+
+.kontaktni-veta {
+    width: 50%;
+    margin: 30px auto 60px;
+}
+
+.jazyky {
+    width: 25%;
+    float: left;
+    margin: 0 30px 30px 0;
+}
+.muj-image {
+    margin: 30px}
+
+.predstaveni {
+    margin: auto;
+    width: 50%;
+    }
+
+.podekovani {
+    font-weight: normal;
+    }
+
+.skill-row-left {
+    clear: right;
+    text-align:left;
+    width: 45%;
+    margin: 40px auto 40px auto;
+    }
+
+.skill-row-right {
+    clear:left;
+    text-align:left;
+    width: 45%;
+    margin: 40px auto 40px auto;
+    }
+
+.stredni {
+   background-color: #F7FBFC;
+}
+
+.spodni {
+    position: relative;
+    padding-top: 40px;
+    background-color: #66bfbf;
+    padding-bottom: 10px;
+}
+
+.TLACITKO {
+    margin: 20px;
+    width: 10%;
+   background: #66BFBF;
+   background-image: -webkit-linear-gradient(top, #11cdd4, #11999E);
+   background-image: -moz-linear-gradient(top, #11cdd4, #11999E);
+   background-image: -ms-linear-gradient(top, #11cdd4, #11999E);
+   background-image: -o-linear-gradient(top, #11cdd4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11cdd4, #11999E);
+   -webkit-border-radius: 16px;
+   -moz-border-radius: 16px;
+   border-radius: 16px;
+   color: #FFFFFF;
+   font-family: Montserrat;
+   font-size: 16;
+   font-weight: 100;
+   padding: 20px;
+   border: solid #66BFBF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.TLACITKO:hover {
+   background: #30e3cb;
+   border: solid #66BFBF 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 20%;
+    top: 20px;
+    width: 10%;
+}
+.uvodni {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 70px;
+}
+
+.zena_za_notebookem {
+    width: 25%;
+    float: right;
+    margin: 0px 0 0 30px;
+}
+
